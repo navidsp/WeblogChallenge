@@ -58,3 +58,6 @@ We want to see how you handle:
 - Messy (ie real) data
 - Understanding data transformation
 This is not a pass or fail test, we want to hear about your challenges and your successes with this particular problem.
+
+###Solution:
+- The solution notebook along with the results can be viewed here on [Databricks cloud](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6298042675008581/1727772549406828/4941483485858009/latest.html).
